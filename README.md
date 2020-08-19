@@ -1,5 +1,7 @@
 # Navigation Project
-Project 1 of Udacity's Deep Reinforcement Learning nanodegree program
+Project 1 of Udacity's Deep Reinforcement Learning nanodegree program.
+
+![](navigation_gif.gif)
 
 ## Project Details
 In this project, an agent is trained for collecting as many as possible yellow bananas while avoiding the blue bananas in a large square world.  
