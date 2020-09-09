@@ -1,5 +1,6 @@
-# Train an Agent to Navigate in a Large Square World
-Project 1 of Udacity's Deep Reinforcement Learning nanodegree program.
+# Project 1 of Udacity's Deep Reinforcement Learning nanodegree program  
+
+## Train an Agent to Navigate in a Large Square World  
 
 ![](navigation_gif.gif)
 
